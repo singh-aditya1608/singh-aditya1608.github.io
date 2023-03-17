@@ -12,4 +12,4 @@ Took this pic while having garma garam tea in chilling cold
 ![IMG_0473](https://user-images.githubusercontent.com/80459650/220899310-9778c5e7-07c9-4bd6-baee-6fddbbbdca69.jpg)
 
 
-https://singh-aditya1608.github.io/blog.html
+[link](https://singh-aditya1608.github.io/blog.html)
