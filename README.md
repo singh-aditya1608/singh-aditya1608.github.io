@@ -13,4 +13,4 @@ Took this pic while having garma garam tea in chilling cold
 
 
 [link](https://singh-aditya1608.github.io/blog.html)
-<a href = " " target"=_blank"> click link </a>
+<a href = "https://singh-aditya1608.github.io/blog.html " target"=_blank"> click link </a>
